@@ -7,7 +7,7 @@ const Header =()=>{
     return (
         <Navbar expand="lg" className="bg-dark navbar-dark">
             <Container>
-                <Navbar.Brand>app-assessment1</Navbar.Brand>
+                <Navbar.Brand>assessment1-app</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ms-auto">
