@@ -5,7 +5,7 @@ import DisplayNames from './Component/DisplayNames';
 
 const App=()=>{
   return(
-      <Routes>
+      <Routes basename={process.env.PUBLIC_URL}>
         <Route path="/" element={<AuthorSegment />}/>
         <Route path="/names" element={<DisplayNames />}/>
       </Routes>
