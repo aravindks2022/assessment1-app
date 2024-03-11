@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assessment1-app/static/css/main.be00a2aa.css",
+    "main.js": "/assessment1-app/static/js/main.870dacf3.js",
+    "index.html": "/assessment1-app/index.html",
+    "main.be00a2aa.css.map": "/assessment1-app/static/css/main.be00a2aa.css.map",
+    "main.870dacf3.js.map": "/assessment1-app/static/js/main.870dacf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be00a2aa.css",
+    "static/js/main.870dacf3.js"
+  ]
+}
