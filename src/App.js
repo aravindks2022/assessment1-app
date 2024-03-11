@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter,Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import AuthorSegment from './Component/AuthorSegment';
 import DisplayNames from './Component/DisplayNames';
 
