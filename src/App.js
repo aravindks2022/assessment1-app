@@ -5,9 +5,9 @@ import DisplayNames from './Component/DisplayNames';
 
 const App=()=>{
   return(
-      <Routes>
-        <Route path="/assessment1-app" element={<AuthorSegment />}/>
-        <Route path="/assessment1-app/names" element={<DisplayNames />}/>
+      <Routes basename="/assessment1-app">
+        <Route path="/" element={<AuthorSegment />}/>
+        <Route path="/names" element={<DisplayNames />}/>
       </Routes>
   )
 }
