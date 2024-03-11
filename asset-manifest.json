@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/assessment1-app/static/css/main.be00a2aa.css",
-    "main.js": "/assessment1-app/static/js/main.d8db343b.js",
+    "main.js": "/assessment1-app/static/js/main.64590850.js",
     "index.html": "/assessment1-app/index.html",
     "main.be00a2aa.css.map": "/assessment1-app/static/css/main.be00a2aa.css.map",
-    "main.d8db343b.js.map": "/assessment1-app/static/js/main.d8db343b.js.map"
+    "main.64590850.js.map": "/assessment1-app/static/js/main.64590850.js.map"
   },
   "entrypoints": [
     "static/css/main.be00a2aa.css",
-    "static/js/main.d8db343b.js"
+    "static/js/main.64590850.js"
   ]
 }
